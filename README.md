@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Some of the tools that I use on a daily basis:</p>
+<p align="left">Some (not all) of the stuff I use:</p>
 
 ###
 
