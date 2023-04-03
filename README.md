@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Ilan and I'm a DevOps/FinOps/Infrastructure/Cloud/Systems Leader & Engineer.</h3>
+<h3 align="left">Hi 👋! <br>I'm Ilan, a DevOps/FinOps/Infrastructure/Cloud/Systems Leader & Engineer.<br>Thanks for checking out my profile page :-) . </h3>
 
 ###
 
